@@ -19,7 +19,11 @@ const SideBar = props => {
     <div id="stage" className="section">
       <div style={{ marginBottom: "20px" }}>
         <h3>{props.title}</h3>
-        <p>{props.message}</p>
+        {/* <p>{props.message}</p> */}
+        <p>
+          We will work hard to transform all new driver’s perceptions and the
+          way they go about applying their knowledge to real world obstacles.
+        </p>
         <Link to="/registration" class="btn hero-btn">
           REGISTER HERE!
         </Link>
