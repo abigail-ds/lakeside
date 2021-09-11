@@ -2,6 +2,7 @@ import React, { Component } from "react"
 import PropTypes from "prop-types"
 
 import AccordionSection from "./AccordionSection"
+import { ReactIntlError } from "react-intl"
 
 class Accordion extends Component {
   static propTypes = {
@@ -35,13 +36,13 @@ class Accordion extends Component {
       props: { children },
       state: { openSections },
     } = this
-    console.log(children)
 
     return (
       <div className="section">
         <div>
-          {children.map(child => (
+          {React.Children.map(child => (
             <AccordionSection
+              key={child.props.label}
               isOpen={!!openSections[child.props.label]}
               label={child.props.label}
               onClick={onClick}

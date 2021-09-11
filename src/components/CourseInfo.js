@@ -1,7 +1,6 @@
 import React from "react"
 
 const CourseInfo = props => {
-  console.log(props)
   return (
     <div style={{ marginBottom: "20px" }}>
       <div dangerouslySetInnerHTML={{ __html: props.message }} />
