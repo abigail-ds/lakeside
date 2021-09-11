@@ -1,0 +1,46 @@
+header {
+  background: transparent;
+  margin-bottom: 1.45rem;
+  position: relative;
+  z-index: 101;
+}
+
+.nav-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  padding: 1rem 0 0.8rem 0;
+}
+
+.nav-container a {
+  color: #414042;
+}
+
+.translate {
+  text-align: right;
+}
+
+.translate a {
+  font-size: 12px;
+  font-weight: bold;
+  margin-right: auto;
+  color: #01b37b;
+}
+
+.logo {
+  width: 100px;
+}
+
+.mobile-menu {
+  display: block !important;
+  position: absolute;
+  right: 0;
+}
+
+@media only screen and (max-width: 1150px) {
+  .logo {
+    width: 130px;
+  }
+}

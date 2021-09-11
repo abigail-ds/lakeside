@@ -1,0 +1,52 @@
+.card-hero {
+  color: white;
+}
+
+.card-hero h3 {
+  color: white;
+  line-height: 3rem;
+}
+.card-hero p {
+  margin: 0;
+}
+
+.card-hero .card-text {
+  padding: 40px;
+  background-color: #01b37b;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.card-hero .desktop {
+  display: "flex";
+}
+
+.card-hero .mobile {
+  display: none;
+}
+
+@media only screen and (max-width: 960px) {
+  .card.horizontal .card-image {
+    max-width: 100% !important;
+  }
+
+  .nav-menu a {
+    display: block !important;
+  }
+
+  .split-card {
+    flex-direction: column;
+    padding: 0 !important;
+  }
+
+  .card-hero .mobile {
+    display: block;
+  }
+
+  .card-hero .desktop {
+    display: none;
+  }
+}

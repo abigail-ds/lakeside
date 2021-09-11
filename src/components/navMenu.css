@@ -1,0 +1,50 @@
+.nav-menu {
+  position: relative;
+}
+
+.nav-menu a {
+  margin-left: 20px;
+  opacity: 1;
+  font-weight: 700;
+  font-size: 0.7rem;
+  color: #414042 !important;
+}
+
+.nav-menu a:hover {
+  color: #01b37b !important;
+}
+
+.nav-menu .btn {
+  color: #01b37b !important;
+}
+
+.translate div > a {
+  color: #01b37b !important;
+}
+
+@media only screen and (max-width: 1150px) {
+  .nav-menu a {
+    font-size: 10px !important;
+  }
+}
+
+@media only screen and (max-width: 960px) {
+  .nav-container {
+    flex-direction: column !important;
+    align-items: flex-start !important;
+  }
+  .nav-menu {
+    padding-top: 10px;
+  }
+  .nav-menu a {
+    margin-left: 0 !important;
+  }
+
+  .translate {
+    text-align: left !important;
+  }
+
+  .nav-menu a {
+    font-size: 10px !important;
+  }
+}

@@ -1,0 +1,56 @@
+.cta-sidebar {
+  position: relative;
+  background-color: #01b37b;
+  padding: 0px 40px 40px 40px;
+  z-index: 99;
+  width: 100%;
+  color: white;
+  right: 0;
+}
+
+.cta-sidebar a {
+  color: white !important;
+}
+
+.cta-sidebar::before {
+  position: absolute;
+  content: "";
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  width: 135%;
+  background: #01b37b;
+  z-index: -1;
+  box-shadow: black -3px 1px 19px -10px !important;
+}
+
+.cta-sidebar h3 {
+  font-family: Oswald;
+  text-transform: uppercase;
+  color: white;
+}
+
+.cta-sidebar p {
+  font-size: medium;
+}
+
+.side {
+  flex-direction: row;
+}
+
+@media screen and (max-width: 992px) {
+  .side {
+    flex-direction: column;
+  }
+
+  .cta-sidebar::before {
+    position: relative;
+    width: 100%;
+  }
+
+  .cta-sidebar {
+    padding: 0px 20px 20px 20px;
+  }
+}

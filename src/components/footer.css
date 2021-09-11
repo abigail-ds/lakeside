@@ -1,0 +1,47 @@
+footer .page-footer {
+  background: #00353f !important;
+  border-top: 8px solid #01b37b;
+}
+
+footer .contact-list b {
+  font-weight: 600 !important;
+}
+
+footer .contact-list a {
+  color: rgb(80, 227, 194);
+}
+
+footer .social-media {
+  display: flex;
+  flex-direction: row;
+}
+
+footer .social-media li {
+  padding-right: 20px;
+  list-style: none;
+}
+
+footer .page-footer .container > .row {
+  padding-top: 50px !important;
+}
+
+footer .row .col .l4 {
+  width: 100% !important;
+}
+
+footer .footer-copyright .container {
+  color: rgb(80, 227, 194);
+  font-size: small;
+}
+
+@media only screen and (min-width: 993px) {
+  footer .row .col.offset-l2 {
+    margin-left: auto;
+  }
+}
+
+@media only screen and (min-width: 993px) {
+  footer .row .col.l4 {
+    width: 50%;
+  }
+}

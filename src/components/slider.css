@@ -1,0 +1,29 @@
+.slider .slides {
+  background: none !important;
+}
+.slider .indicators .indicator-item.active {
+  background: rgb(80, 227, 194) !important;
+}
+
+.slider .indicators {
+  text-align: left !important;
+}
+
+.slick-prev,
+.slick-next {
+  top: 25%;
+}
+
+.slick-prev {
+  top: 25%;
+  left: -25px;
+}
+
+.slick-prev::before,
+.slick-next::before {
+  color: #01b37b;
+}
+
+.slick-list {
+  height: 100%;
+}
