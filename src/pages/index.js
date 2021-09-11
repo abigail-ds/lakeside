@@ -48,11 +48,11 @@ const IndexPage = () => {
               message={data.home.html}
             />
             <Image visual={data.accreditedLogo.childImageSharp.fixed} />
-            <SimpleSlider
+            {/* <SimpleSlider
               title={intl.formatMessage({
                 id: "home.testimonials.testimonial_title",
               })}
-            />
+            /> */}
           </div>
           <div className="col l5 m12 s12">
             <div className="cta-sidebar">
