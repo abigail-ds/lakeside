@@ -40,7 +40,10 @@ const Registration = ({ intl }) => {
         lang={intl.locale}
         title={intl.formatMessage({ id: "registration.title" })}
       />
-      <Form googleForm={data.formEs ? data.formEs.html : ""} />
+      <Form
+        className="registration-form"
+        googleForm={data.formEs ? data.formEs.html : ""}
+      />
     </Layout>
   )
 }
