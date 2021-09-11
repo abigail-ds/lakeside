@@ -179,7 +179,7 @@ collections:
     label: "fTranslate"
     folder: "content/fTranslate"
     delete: false
-    create: false
+    create: true
     slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     editor:
       preview: false
