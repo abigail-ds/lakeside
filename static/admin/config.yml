@@ -175,6 +175,22 @@ collections:
           hint: "title of node",
         }
       - { label: "form-content", name: "body", widget: "markdown" }
+  - name: "fTranslate"
+    label: "fTranslate"
+    folder: "content/fTranslate"
+    delete: false
+    create: false
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Title-es",
+          name: "title-es",
+          widget: "string",
+          hint: "title of node",
+        }
+      - { label: "f-translate-content", name: "body", widget: "markdown" }
   - name: "Footer"
     label: "Footer"
     folder: "content/footer"
