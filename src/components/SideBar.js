@@ -27,7 +27,7 @@ const SideBar = props => {
       <HorizontalRule altColor={"horizontal-line"} />
       <h6 style={{ fontWeight: "600", paddingTop: "20px" }}>{props.caption}</h6>
       <p>
-        <span style={{ fontWeight: "600" }}>English: </span>
+        <span style={{ fontWeight: "600" }}>Phone Number: </span>
         <a href={`tel:${data.phone.frontmatter.en_phone}`}>
           {data.phone.frontmatter.en_phone}
         </a>

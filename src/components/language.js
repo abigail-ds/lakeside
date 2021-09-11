@@ -1,10 +1,10 @@
 import React from "react"
 import { IntlContextConsumer, changeLocale } from "gatsby-plugin-intl"
 
-const languageName = {
-  en: "English",
-  es: "Spanish",
-}
+// const languageName = {
+//   en: "English",
+//   es: "Spanish",
+// }
 
 const Language = () => {
   return (
@@ -23,7 +23,7 @@ const Language = () => {
                 cursor: `pointer`,
               }}
             >
-              {languageName[language]}
+              {/* {languageName[language]} */}
             </a>
           ))
         }

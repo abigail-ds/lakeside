@@ -51,7 +51,7 @@ const FooterRender = ({ props, intl }) => {
                 <span>
                   <b>{intl.formatMessage({ id: "contact.email" })}: </b>
                 </span>
-                abigailsInstructor@gmail.com
+                LakesideDrivingSchoolRVA@gmail.com
               </li>
               <li>
                 <span>
@@ -66,7 +66,7 @@ const FooterRender = ({ props, intl }) => {
                 {data.footer.contact_hours}
               </li>
             </ul>
-            <div className="social-media">
+            {/* <div className="social-media">
               <li>
                 <a
                   style={footerStyles}
@@ -87,7 +87,7 @@ const FooterRender = ({ props, intl }) => {
                   @AbigailsDrivingSchool
                 </a>
               </li>
-            </div>
+            </div> */}
           </div>
           <div className="col s12 m6">
             <ul className="contact-list">
@@ -95,15 +95,9 @@ const FooterRender = ({ props, intl }) => {
                 <span>
                   <b>{intl.formatMessage({ id: "contact.address" })}: </b>
                   <br />
-                  6002 W. Broad St., Suite 203
+                  5809 Lakeside Avenue Suite G1-C
                   <br />
-                  Richmond, VA 23230
-                </span>
-                <br />
-                <span>
-                  (Office Open Per Appointment)
-                  <br />
-                  **Next to Mekong Restaurant
+                  Richmond VA 23228
                 </span>
               </li>
               <li>

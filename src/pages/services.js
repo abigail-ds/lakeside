@@ -28,15 +28,13 @@ const Services = ({ intl }) => {
   let enArr = data.courses.nodes
   let services
 
-  if (path.match("/en/")) {
-    services = enArr.map((ele, index) => {
-      return (
-        <div label={ele.frontmatter.title}>
-          <CourseInfo title={ele.frontmatter.title} message={ele.html} />
-        </div>
-      )
-    })
-  }
+  services = enArr.map((ele, index) => {
+    return (
+      <div label={ele.frontmatter.title}>
+        <CourseInfo title={ele.frontmatter.title} message={ele.html} />
+      </div>
+    )
+  })
 
   return (
     <Layout>
