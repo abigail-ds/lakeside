@@ -24,6 +24,9 @@ const Registration = ({ intl }) => {
       form: markdownRemark(fileAbsolutePath: { regex: "/form/" }) {
         html
       }
+      formEs: markdownRemark(fileAbsolutePath: { regex: "/fTranslate/" }) {
+        html
+      }
     }
   `)
   const path = typeof window !== "undefined" ? window.location.pathname : ""
