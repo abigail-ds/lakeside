@@ -18,4 +18,6 @@ Lakeside Driving School provides driver improvement course for those in Richmond
 
 For details on the 8 hour driver improvement class read DMV's publication [A Different Kind of Crash Course DI Program](http://www.dmv.state.va.us/webdoc/pdf/dmv114.pdf)
 
-**REGISTER TODAY**
+**SCHEDULE: COMING SOON**
+
+**Call or text to inquire about class schedule; 804-823-7730**
