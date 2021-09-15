@@ -2,9 +2,15 @@
 title: Virginia Drivers Manual
 string: Virginia Drivers Manual
 ---
-**Please [complete this application](<<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZd0unqD63VKqwqxSJDbXnN75yGanRy4zuHbnRJasWjFk9-g/viewform?embedded=true" width="640" height="1709" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>>) and we will contact you to schedule the class.** 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZd0unqD63VKqwqxSJDbXnN75yGanRy4zuHbnRJasWjFk9-g/viewform?embedded=true" width="640" height="1709" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-**See below for information  regarding the driver's manual course.**
+
+
+
+
+
+
+
 
 **Virginia Driver's Manual Re-examination Course**
 
