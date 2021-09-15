@@ -2,6 +2,10 @@
 title: Virginia Drivers Manual
 string: Virginia Drivers Manual
 ---
+**Please [complete this application](<<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZd0unqD63VKqwqxSJDbXnN75yGanRy4zuHbnRJasWjFk9-g/viewform?embedded=true" width="640" height="1709" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>>) and we will contact you to schedule the class.** 
+
+**See below for information  regarding the driver's manual course.**
+
 **Virginia Driver's Manual Re-examination Course**
 
 Virginia law requires that every person seeking a driver's license to pass a driver's examination. The two-part knowledge exam is taken on a computer at DMV customer service centers. The exam tests your knowledge of traffic signs, motor vehicle laws and safe driving techniques. Exam questions are taken from information in the [Virginia Driver's Manual](https://www.dmv.virginia.gov/drivers/manual.asp). All ten traffic sign questions in Part One must be answered correctly before you can take the general knowledge exam in Part Two. You must score at least 80% on these questions to pass Part Two.
