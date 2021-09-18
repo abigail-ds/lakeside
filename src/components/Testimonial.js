@@ -4,12 +4,12 @@ import "./testimonial.css"
 
 const Testimonial = props => {
   return (
-    // <div className="testimonial">
-    //   <div className="testimonial-content">
-    //     <p>{props.message}</p>
-    //     <small>-- {props.author}</small>
-    //   </div>
-    // </div>
+    <div className="testimonial">
+      <div className="testimonial-content">
+        <p>{props.message}</p>
+        <small>-- {props.author}</small>
+      </div>
+    </div>
   )
 }
 
