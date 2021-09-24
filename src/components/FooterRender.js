@@ -59,12 +59,18 @@ const FooterRender = ({ props, intl }) => {
                 </span>
                 With Appointment
               </li>
-              <li>
-                <span>
-                  <b>{intl.formatMessage({ id: "contact.contact_hours" })}: </b>
-                </span>
-                {data.footer.contact_hours}
-              </li>
+              {data.footer.frontmatter.contact_hours !== "" ? (
+                <li>
+                  <span>
+                    <b>
+                      {intl.formatMessage({ id: "contact.contact_hours" })}:{" "}
+                    </b>
+                  </span>
+                  {data.footer.frontmatter.contact_hours}
+                </li>
+              ) : (
+                ""
+              )}
             </ul>
             {/* <div className="social-media">
               <li>

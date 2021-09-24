@@ -202,5 +202,10 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Phone Number", name: "en-phone", widget: "string" }
-      - { label: "Contact Hours", name: "contact-hours", widget: "string" }
+      - {
+          label: "Contact Hours",
+          name: "contact-hours",
+          widget: "string",
+          required: false,
+        }
       - { label: "Facebook link", name: "fb-link", widget: "string" }
