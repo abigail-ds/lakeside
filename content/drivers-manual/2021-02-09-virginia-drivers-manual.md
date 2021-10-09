@@ -2,13 +2,7 @@
 title: Virginia Drivers Manual
 string: Virginia Drivers Manual
 ---
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdZd0unqD63VKqwqxSJDbXnN75yGanRy4zuHbnRJasWjFk9-g/viewform?embedded=true" width="640" height="2138" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
-
-
-
-
-
+## **Coming Soon!**
 
 **Virginia Driver's Manual Re-examination Course**
 
