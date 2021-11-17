@@ -5,9 +5,9 @@ title: Online Training - Coming Soon
 
 ## Coming Soon!! Pending DMV Review/Approval
 
-We are in the process of partnering with the [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education. 
+We have partnered with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education. 
 
-**Fee:** TBD
+**Fee:** $150
 
 **Tech Support:** 1-800-942-2050
 
