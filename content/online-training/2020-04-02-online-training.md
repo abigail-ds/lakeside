@@ -1,5 +1,5 @@
 ---
-title: Online Training - Coming Soon
+title: "Online Training "
 ---
 ![](/assets/ndti-logo-docx.png)
 
