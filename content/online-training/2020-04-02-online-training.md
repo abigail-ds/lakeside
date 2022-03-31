@@ -3,11 +3,13 @@ title: Online Training - Coming Soon
 ---
 ![](/assets/ndti-logo-docx.png)
 
-## Coming Soon!! Pending DMV Review/Approval
+## Online Driver's Education for Teens and Adults
 
 We have partnered with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education. 
 
-**Fee:** $150
+**Location:** Visit [Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=23) for a discounted price of **$100**
+
+**Fee:** $100
 
 **Tech Support:** 1-800-942-2050
 
