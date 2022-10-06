@@ -7,9 +7,13 @@ title: "Online Driver Education "
 
 We have partnered with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education. This applies to both Teens and Adults. 
 
-**Location:** Visit [Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=91) for a discounted price of **$100**
+**Teenagers** - [Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=23) for a discounted price of **$100**
 
-**Fee:** $100
+
+
+**Adults**- [Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=91) for a discounted price of **$100**
+
+
 
 **Tech Support:** 1-800-942-2050
 
