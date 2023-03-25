@@ -9,7 +9,7 @@ We have partnered with [National Driver Training](https://www.nationaldrivertrai
 
 **Teenagers** - [Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=23) - **$150**
 
-**Adults**- [Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=23) -**$125**
+**Adults**- [Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=23) -**$100**
 
 **Tech Support:** 1-800-942-2050
 
