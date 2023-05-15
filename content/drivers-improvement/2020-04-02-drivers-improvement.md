@@ -2,6 +2,8 @@
 title: Drivers Improvement
 string: Eight-Hour Driver Improvement Clinic
 ---
+## **New!! Online Driver Improvement Clinic - coming soon!**
+
 **Call or text to inquire about class schedule; 804-823-7730**
 
 Lakeside Driving School provides driver improvement course for those in Richmond, Virginia. Our scheduling is very flexible to ensure that all our students can attend and learn proper defensive driving techniques. We use the [Virginia Focused Driver Improvement Program](https://drivertraining4virginia.com/) curriculum by [MGA Consulting LLC](https://www.mgaconsulting.co/). The certificates we issue is acknowledged by Virginia’s DMV and Court System. Upon completion of the course, we will report your completion records to the DMV within 24 hours.
