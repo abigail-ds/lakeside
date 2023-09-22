@@ -7,11 +7,13 @@ title: "Online Driver Education "
 
 We have partnered with [National Driver Training](https://www.nationaldrivertraining.com/). This partnership will allow our students to meet the classroom portion of Driver's Education. This applies to both Teens and Adults. 
 
-**Teenagers** -[ Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=91) - **$150**
+**Teenagers** -[ Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=91) - **$200**
 
-**Adults**- [Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=23) -**$100**
+**Adults**- [Lakeside Driving School's Page](https://nationaldrivertraining.com/aff-landing.php?age=Teen&state=VA&affid=1138&pid=23) -**$125**
 
 **Tech Support:** 1-800-942-2050
+
+Final Exam for Teenagers - Only on SUNDAYS between 11am-2pm - Parent must be present the entire test session. 
 
 **Online Support**: LakesideDrivingSchoolRVA@gmail.com
 
