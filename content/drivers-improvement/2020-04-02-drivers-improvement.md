@@ -2,7 +2,7 @@
 title: Drivers Improvement
 string: Eight-Hour Driver Improvement Clinic
 ---
-## **$﻿55 Online Driver Improvement**
+## **$﻿100 Online Driver Improvement**
 
 ## **D﻿o it at Home or on your phone;**
 
