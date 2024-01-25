@@ -54,25 +54,21 @@ On the day of testing, you must bring the following to the test site:
 
 5809 Lakeside Avenue Suite G1-C Richmond, VA 23228 
 
-**Phone: 804-823-7730**
+**Phone: 804-823-7730 (Text to schedule)**
 
 **Email:** LakesideDrivingSchoolRVA@gmail.com
 
-**Online Testing Fee**
-
-**Price: $500 package for Behind the Wheel and Online Class to meet State Mandate.**
-
 **Online Testing Hours:**
 
-* Monday 9 am To 5 pm
-* Tuesday 9 am To 5 pm
-* Wednesday 9 am To 5 pm
-* Thursday 9 am To 5 pm
-* Friday 9 am To 5 pm
-* Saturday 8 am To 12 pm
-* Sunday 8 am To 12pm
+* Monday 9 am To 9 pm
+* Tuesday 9 am To 9 pm
+* Wednesday 9 am To 9 pm
+* Thursday 9 am To 9 pm
+* Friday 9 am To 9 pm
+* Saturday 8 am To 9 pm
+* Sunday - CLOSED
 
-**Online Testing Instruction Hours:**
+**Online Testing Instruction Hours: You can log-in and log-out as needed. No restriction. But below is a sample schedule;**
 
 * Monday 9 am To 5 pm
 * Tuesday 9 am To 5 pm
